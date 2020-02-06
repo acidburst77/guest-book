@@ -1,0 +1,5 @@
+INSERT INTO posts (id, txt) VALUES (nextval('posts_sequence'), 'Detract yet delight written farther his general. Latter remark hunted enough vulgar say man. To sure');
+INSERT INTO posts (id, txt) VALUES (nextval('posts_sequence'), 'At none neat am do over will. Sentiments two occasional affronting solicitude travelling and one con');
+INSERT INTO posts (id, txt) VALUES (nextval('posts_sequence'), 'Her too add narrow having wished. He in sportsman household otherwise it perceived instantly. So by');
+INSERT INTO posts (id, txt) VALUES (nextval('posts_sequence'), 'Expression alteration entreaties mrs can terminated estimating. Pain son rose more park way that. Wa');
+INSERT INTO posts (id, txt) VALUES (nextval('posts_sequence'), 'Fat new smallness few supposing suspicion two. As mr started arrival subject by believe. Any delicat');
